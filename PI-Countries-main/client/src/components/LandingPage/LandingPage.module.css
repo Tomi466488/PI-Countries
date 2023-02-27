@@ -27,14 +27,13 @@
 }
 
 .boton:hover{
-
         background-color: wheat ;
         color: #000;
         scale: 105%;
-    }
+}
 
 .imgLanding{
-    width: 100%;
+        width: 100%;
 }
 
 .txt{
