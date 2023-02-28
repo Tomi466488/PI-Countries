@@ -15,15 +15,15 @@ export default function LandingPage() {
           alt="Bienvenida"
           autoplay="autoplay"
         />
-
-        <h1 className={style.txt}>BIENVENIDO, ENCUENTRA</h1>
-        <h1 className={style.txt}>TU PROPIO DESTINO</h1>
-
         <div className={style.welcome}>
           <Link to="/home">
             <button className={style.boton}>Ingresar</button>
           </Link>
         </div>
+        <h1 className={style.txt}>BIENVENIDO, ENCUENTRA</h1>
+        <h1 className={style.txt}>TU PROPIO DESTINO</h1>
+
+        
       </div>
     </div>
   );
